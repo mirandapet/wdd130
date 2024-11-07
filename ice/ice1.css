@@ -1,0 +1,21 @@
+body {
+    background-color: #56A0D4;
+    font-size: 24px;
+}
+h1{
+    text-align: center;
+    color: white;
+}
+h1:hover{
+    color: black;
+}
+
+img{ 
+    width: 40%;
+    display: block;
+    margin: 0 auto;
+}
+p{
+    width: 70%;
+    margin: 0 auto;
+}

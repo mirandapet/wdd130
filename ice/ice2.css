@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #f0f0f0;
+}
+header {
+    background-color: grey;
+    text-align: center;
+}
+header img {
+    width: 100%;
+    height: auto;
+}
+main {
+    background-color: grey;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px;
+}
+.left, .middle, .right {
+    width: 30%;
+    text-align: center;
+}
+.left img, .middle img, .right img {
+    width: 100%;
+    height: auto;
+    border-radius: 50%; 
+    border: 8px solid #444444; 
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 20px;
