@@ -56,10 +56,6 @@ h2{
     font-size: 1em;
 }
 
-.h5, .h6, .h7{
-    font-display: bold;
-}
-
 #content{
     max-width: 1600px;
     margin: 0 auto; 
