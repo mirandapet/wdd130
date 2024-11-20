@@ -321,6 +321,7 @@ footer .social img {
   /* Center the form on the page */
 body{
   text-align: center;
+  margin: 0 auto;
 }
 
 form {
