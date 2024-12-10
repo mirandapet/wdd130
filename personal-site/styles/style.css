@@ -1,0 +1,7 @@
+/*index css*/
+
+.home-grid{
+    display: grid;
+    grid-template-columns: repeat(10, fr);
+}
+
